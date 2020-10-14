@@ -1,0 +1,24 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^7.23.0",
+    "firebase-tools": "^8.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieljhawn/login.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieljhawn/login/issues"
+  },
+  "homepage": "https://github.com/danieljhawn/login#readme"
+}
